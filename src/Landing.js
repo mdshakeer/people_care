@@ -29,7 +29,7 @@ class Landing extends Component {
 	        		</div>
 	        	</div>
 	        	<div className="Linkable h5 Roboto">
-	        		<a href="" className="ph"><i className="fa fa-phone"></i> 1234567890</a>
+	        		<a href="tel:1234567890" className="ph"><i className="fa fa-phone"></i> 1234567890</a>
 	        		<a href="https://wa.me/1234567890" className="wa"><i className="fa fa-whatsapp"></i> 1234567890</a>
 	        	</div>
 	        </div>
