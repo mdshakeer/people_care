@@ -1,5 +1,8 @@
+.hidden{
+    display: none;
+}
 .Overlay-top{
-	height: 730px;
+/* 	height: 730px; */
 }
 .Overlay-top:before{
 	content: '';
