@@ -7,10 +7,10 @@ class Landing extends Component {
   render() {
     return (
       <div className="Landing">
-      	<div className="Overlay-top">
+      	<div className="Overlay-top-removed">
 	        <img src={u_c}/>
 	    </div>
-	    <div className="Landing-content hidden">
+	    <div className="Landing-content" style="display:none;">
 	        <header className="App-header">
 	        </header>
 	        <div className="col-lg-12 col-md-12 col-xs-12 Raleway text-center">
