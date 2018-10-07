@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import banner from './images/banner.jpg';
+import u_c from './images/u_c.png';
 import './Landing.css';
 
 class Landing extends Component {
@@ -7,9 +8,9 @@ class Landing extends Component {
     return (
       <div className="Landing">
       	<div className="Overlay-top">
-	        <img src={banner}/>
+	        <img src={u_c}/>
 	    </div>
-	    <div className="Landing-content">
+	    <div className="Landing-content hidden">
 	        <header className="App-header">
 	        </header>
 	        <div className="col-lg-12 col-md-12 col-xs-12 Raleway text-center">
