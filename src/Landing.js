@@ -198,15 +198,15 @@ class Landing extends Component {
 		                    <form id="ajax-contact" method="post" action="mailer.php" class="mu-contact-form">
 		                      <div class="form-group">
 		                        <label for="name">Your Name</label>
-		                        <input type="text" class="form-control" id="name" name="name" placeholder="Name" required="">
+		                        <input type="text" class="form-control" id="name" name="name" placeholder="Name" required=""/>
 		                      </div>
 		                      <div class="form-group">
 		                        <label for="email">Email address</label>
-		                        <input type="email" class="form-control" id="email" name="email" placeholder="Email" required="">
+		                        <input type="email" class="form-control" id="email" name="email" placeholder="Email" required=""/>
 		                      </div>                      
 		                      <div class="form-group">
 		                        <label for="subject">Subject</label>
-		                        <input type="text" class="form-control" id="subject" name="subject" placeholder="Subject" required="">
+		                        <input type="text" class="form-control" id="subject" name="subject" placeholder="Subject" required=""/>
 		                      </div>
 		                      <div class="form-group">
 		                        <label for="message">Message</label>                        
