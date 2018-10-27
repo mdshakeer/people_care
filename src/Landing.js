@@ -70,7 +70,7 @@ class Landing extends Component {
 
 		        {/* Top slider single slide */}
 		        <div class="mu-top-slider-single">
-		          <img src={s1} alt="img">
+		          <img src={s1} alt="img"/>
 		          {/* Top slider content */}
 		          <div class="mu-top-slider-content">
 		            <span class="mu-slider-small-title">Teflon coating</span>
@@ -83,7 +83,7 @@ class Landing extends Component {
 
 		         {/* Top slider single slide */}
 		        <div class="mu-top-slider-single">
-		          <img src={s2} alt="img">
+		          <img src={s2} alt="img"/>
 		          {/* Top slider content */}
 		          <div class="mu-top-slider-content">
 		            <span class="mu-slider-small-title">Ceramic coating</span>
@@ -96,7 +96,7 @@ class Landing extends Component {
 
 		        {/* Top slider single slide */}
 		        <div class="mu-top-slider-single">
-		          <img src={s3} alt="img">
+		          <img src={s3} alt="img"/>
 		          {/* Top slider content */}
 		          <div class="mu-top-slider-content">
 		            <span class="mu-slider-small-title">F11 interior cleaning</span>
@@ -109,7 +109,7 @@ class Landing extends Component {
 
 		        {/* Top slider single slide */}
 		        <div class="mu-top-slider-single">
-		          <img src={s4} alt="img">
+		          <img src={s4} alt="img"/>
 		          {/* Top slider content */}
 		          <div class="mu-top-slider-content">
 		            <span class="mu-slider-small-title">Door Step Service</span>
@@ -122,7 +122,7 @@ class Landing extends Component {
 
 		         {/* Top slider single slide */}
 		        <div class="mu-top-slider-single">
-		          <img src={s5} alt="img">
+		          <img src={s5} alt="img"/>
 		          {/* Top slider content */}
 		          <div class="mu-top-slider-content">
 		            <span class="mu-slider-small-title">Glass cleaning</span>
@@ -135,7 +135,7 @@ class Landing extends Component {
 
 		        {/* Top slider single slide */}
 		        <div class="mu-top-slider-single">
-		          <img src={s6} alt="img">
+		          <img src={s6} alt="img"/>
 		          {/* Top slider content */}
 		          <div class="mu-top-slider-content">
 		            <span class="mu-slider-small-title">Waxing</span>
