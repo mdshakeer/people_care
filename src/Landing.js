@@ -58,7 +58,7 @@ class Landing extends Component {
 		            <li class=""><a href="#mu-restaurant-menu">OUR SERVICES</a></li>
 		            <li class=""><a href="#mu-contact">CONTACT</a></li> 
 		          </ul>                            
-		        </div>{/*/.nav-collapse        */}
+		        </div>{/* .nav-collapse        */}
 		      </div>          
 		    </nav> 
 		  </header>
@@ -77,9 +77,9 @@ class Landing extends Component {
 		            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque voluptatem accusamus non quidem, deleniti optio.</p>           
 		            <a href="#mu-reservation" class="mu-readmore-btn mu-reservation-btn hidden">BOOK A TABLE</a>
 		          </div>
-		          {/* / Top slider content */}
+		          {/* Top slider content */}
 		        </div>
-		        {/* / Top slider single slide     */}
+		        {/* Top slider single slide     */}
 
 		         {/* Top slider single slide */}
 		        <div class="mu-top-slider-single">
@@ -90,9 +90,9 @@ class Landing extends Component {
 		            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque voluptatem accusamus non quidem, deleniti optio.</p>           
 		           <a href="#mu-reservation" class="mu-readmore-btn mu-reservation-btn hidden">BOOK A TABLE</a>
 		          </div>
-		          {/* / Top slider content */}
+		          {/* Top slider content */}
 		        </div>
-		        {/* / Top slider single slide  */}
+		        {/* Top slider single slide  */}
 
 		        {/* Top slider single slide */}
 		        <div class="mu-top-slider-single">
@@ -103,9 +103,9 @@ class Landing extends Component {
 		            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque voluptatem accusamus non quidem, deleniti optio.</p>           
 		            <a href="#mu-reservation" class="mu-readmore-btn mu-reservation-btn hidden">BOOK A TABLE</a>
 		          </div>
-		          {/* / Top slider content */}
+		          {/* Top slider content */}
 		        </div>
-		        {/* / Top slider single slide */}
+		        {/* Top slider single slide */}
 
 		        {/* Top slider single slide */}
 		        <div class="mu-top-slider-single">
@@ -116,9 +116,9 @@ class Landing extends Component {
 		            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque voluptatem accusamus non quidem, deleniti optio.</p>           
 		            <a href="#mu-reservation" class="mu-readmore-btn mu-reservation-btn hidden">BOOK A TABLE</a>
 		          </div>
-		          {/* / Top slider content */}
+		          {/* Top slider content */}
 		        </div>
-		        {/* / Top slider single slide     */}
+		        {/* Top slider single slide     */}
 
 		         {/* Top slider single slide */}
 		        <div class="mu-top-slider-single">
@@ -129,9 +129,9 @@ class Landing extends Component {
 		            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque voluptatem accusamus non quidem, deleniti optio.</p>           
 		           <a href="#mu-reservation" class="mu-readmore-btn mu-reservation-btn hidden">BOOK A TABLE</a>
 		          </div>
-		          {/* / Top slider content */}
+		          {/* Top slider content */}
 		        </div>
-		        {/* / Top slider single slide  */}
+		        {/* Top slider single slide  */}
 
 		        {/* Top slider single slide */}
 		        <div class="mu-top-slider-single">
@@ -142,9 +142,9 @@ class Landing extends Component {
 		            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque voluptatem accusamus non quidem, deleniti optio.</p>           
 		            <a href="#mu-reservation" class="mu-readmore-btn mu-reservation-btn hidden">BOOK A TABLE</a>
 		          </div>
-		          {/* / Top slider content */}
+		          {/* Top slider content */}
 		        </div>
-		        {/* / Top slider single slide    */}
+		        {/* Top slider single slide    */}
 
 		      </div>
 		    </div>
