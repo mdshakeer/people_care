@@ -248,7 +248,7 @@ class Landing extends Component {
 
 
 		  <section id="mu-map">
-		    <iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d125314.16239371391!2d76.88010543878718!3d11.033556958273836!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3ba8594c9417ee03%3A0x88fa7ceae35a6414!2sSBN+CAR+POLISH+Teflon+Coating+Car+%7C+Ceramic+Coating+%7C+Car+Interior+Cleaning+%7C+Car+polish+coimbatore!3m2!1d11.033565!2d76.95014599999999!5e0!3m2!1sen!2sin!4v1540678665169" width="100%" height="100%" frameborder="0" allowfullscreen="" styles={{pointer-events: none}}></iframe>
+		    <iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d125314.16239371391!2d76.88010543878718!3d11.033556958273836!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3ba8594c9417ee03%3A0x88fa7ceae35a6414!2sSBN+CAR+POLISH+Teflon+Coating+Car+%7C+Ceramic+Coating+%7C+Car+Interior+Cleaning+%7C+Car+polish+coimbatore!3m2!1d11.033565!2d76.95014599999999!5e0!3m2!1sen!2sin!4v1540678665169" width="100%" height="100%" frameborder="0" allowfullscreen=""></iframe>
 		  </section>
       </div>
     );
