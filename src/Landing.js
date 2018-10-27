@@ -40,107 +40,107 @@ class Landing extends Component {
 	        </div>
 	    </div>
 	    <header id="mu-header">  
-		    <nav class="navbar navbar-default mu-main-navbar" role="navigation">  
-		      <div class="container">
-		        <div class="navbar-header">
+		    <nav className="navbar navbar-default mu-main-navbar" role="navigation">  
+		      <div className="container">
+		        <div className="navbar-header">
 		          {/* LOGO        */}
 
 		           {/*  Text based logo  */}
-		          <a class="navbar-brand h4" href="index.html">SBN CAR POLISHING</a> 
+		          <a className="navbar-brand h4" href="index.html">SBN CAR POLISHING</a> 
 
 				      {/*  Image based logo  */}
-		          {/* <a class="navbar-brand" href="index.html"><img src="assets/img/logo.png" alt="Logo img"></a>  */}
+		          {/* <a className="navbar-brand" href="index.html"><img src="assets/img/logo.png" alt="Logo img"></a>  */}
 		        </div>
-		        <div id="navbar" class="navbar-collapse collapse">
-		          <ul id="top-menu" class="nav navbar-nav navbar-right mu-main-nav">
+		        <div id="navbar" className="navbar-collapse collapse">
+		          <ul id="top-menu" className="nav navbar-nav navbar-right mu-main-nav">
 		            <li><a href="#">HOME</a></li>
-		            <li class=""><a href="#mu-about-us">ABOUT US</a></li>                       
-		            <li class=""><a href="#mu-restaurant-menu">OUR SERVICES</a></li>
-		            <li class=""><a href="#mu-contact">CONTACT</a></li> 
+		            <li className=""><a href="#mu-about-us">ABOUT US</a></li>                       
+		            <li className=""><a href="#mu-restaurant-menu">OUR SERVICES</a></li>
+		            <li className=""><a href="#mu-contact">CONTACT</a></li> 
 		          </ul>                            
 		        </div>{/* .nav-collapse        */}
 		      </div>          
 		    </nav> 
 		  </header>
 		  <section id="mu-slider">
-		    <div class="mu-slider-area"> 
+		    <div className="mu-slider-area"> 
 
 		      {/* Top slider */}
-		      <div class="mu-top-slider">
+		      <div className="mu-top-slider">
 
 		        {/* Top slider single slide */}
-		        <div class="mu-top-slider-single">
+		        <div className="mu-top-slider-single">
 		          <img src={s1} alt="img"/>
 		          {/* Top slider content */}
-		          <div class="mu-top-slider-content">
-		            <span class="mu-slider-small-title">Teflon coating</span>
+		          <div className="mu-top-slider-content">
+		            <span className="mu-slider-small-title">Teflon coating</span>
 		            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque voluptatem accusamus non quidem, deleniti optio.</p>           
-		            <a href="#mu-reservation" class="mu-readmore-btn mu-reservation-btn hidden">BOOK A TABLE</a>
+		            <a href="#mu-reservation" className="mu-readmore-btn mu-reservation-btn hidden">BOOK A TABLE</a>
 		          </div>
 		          {/* Top slider content */}
 		        </div>
 		        {/* Top slider single slide     */}
 
 		         {/* Top slider single slide */}
-		        <div class="mu-top-slider-single">
+		        <div className="mu-top-slider-single">
 		          <img src={s2} alt="img"/>
 		          {/* Top slider content */}
-		          <div class="mu-top-slider-content">
-		            <span class="mu-slider-small-title">Ceramic coating</span>
+		          <div className="mu-top-slider-content">
+		            <span className="mu-slider-small-title">Ceramic coating</span>
 		            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque voluptatem accusamus non quidem, deleniti optio.</p>           
-		           <a href="#mu-reservation" class="mu-readmore-btn mu-reservation-btn hidden">BOOK A TABLE</a>
+		           <a href="#mu-reservation" className="mu-readmore-btn mu-reservation-btn hidden">BOOK A TABLE</a>
 		          </div>
 		          {/* Top slider content */}
 		        </div>
 		        {/* Top slider single slide  */}
 
 		        {/* Top slider single slide */}
-		        <div class="mu-top-slider-single">
+		        <div className="mu-top-slider-single">
 		          <img src={s3} alt="img"/>
 		          {/* Top slider content */}
-		          <div class="mu-top-slider-content">
-		            <span class="mu-slider-small-title">F11 interior cleaning</span>
+		          <div className="mu-top-slider-content">
+		            <span className="mu-slider-small-title">F11 interior cleaning</span>
 		            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque voluptatem accusamus non quidem, deleniti optio.</p>           
-		            <a href="#mu-reservation" class="mu-readmore-btn mu-reservation-btn hidden">BOOK A TABLE</a>
+		            <a href="#mu-reservation" className="mu-readmore-btn mu-reservation-btn hidden">BOOK A TABLE</a>
 		          </div>
 		          {/* Top slider content */}
 		        </div>
 		        {/* Top slider single slide */}
 
 		        {/* Top slider single slide */}
-		        <div class="mu-top-slider-single">
+		        <div className="mu-top-slider-single">
 		          <img src={s4} alt="img"/>
 		          {/* Top slider content */}
-		          <div class="mu-top-slider-content">
-		            <span class="mu-slider-small-title">Door Step Service</span>
+		          <div className="mu-top-slider-content">
+		            <span className="mu-slider-small-title">Door Step Service</span>
 		            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque voluptatem accusamus non quidem, deleniti optio.</p>           
-		            <a href="#mu-reservation" class="mu-readmore-btn mu-reservation-btn hidden">BOOK A TABLE</a>
+		            <a href="#mu-reservation" className="mu-readmore-btn mu-reservation-btn hidden">BOOK A TABLE</a>
 		          </div>
 		          {/* Top slider content */}
 		        </div>
 		        {/* Top slider single slide     */}
 
 		         {/* Top slider single slide */}
-		        <div class="mu-top-slider-single">
+		        <div className="mu-top-slider-single">
 		          <img src={s5} alt="img"/>
 		          {/* Top slider content */}
-		          <div class="mu-top-slider-content">
-		            <span class="mu-slider-small-title">Glass cleaning</span>
+		          <div className="mu-top-slider-content">
+		            <span className="mu-slider-small-title">Glass cleaning</span>
 		            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque voluptatem accusamus non quidem, deleniti optio.</p>           
-		           <a href="#mu-reservation" class="mu-readmore-btn mu-reservation-btn hidden">BOOK A TABLE</a>
+		           <a href="#mu-reservation" className="mu-readmore-btn mu-reservation-btn hidden">BOOK A TABLE</a>
 		          </div>
 		          {/* Top slider content */}
 		        </div>
 		        {/* Top slider single slide  */}
 
 		        {/* Top slider single slide */}
-		        <div class="mu-top-slider-single">
+		        <div className="mu-top-slider-single">
 		          <img src={s6} alt="img"/>
 		          {/* Top slider content */}
-		          <div class="mu-top-slider-content">
-		            <span class="mu-slider-small-title">Waxing</span>
+		          <div className="mu-top-slider-content">
+		            <span className="mu-slider-small-title">Waxing</span>
 		            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque voluptatem accusamus non quidem, deleniti optio.</p>           
-		            <a href="#mu-reservation" class="mu-readmore-btn mu-reservation-btn hidden">BOOK A TABLE</a>
+		            <a href="#mu-reservation" className="mu-readmore-btn mu-reservation-btn hidden">BOOK A TABLE</a>
 		          </div>
 		          {/* Top slider content */}
 		        </div>
@@ -152,19 +152,19 @@ class Landing extends Component {
 		  {/* End slider  */}
 
 		  <section id="mu-about-us">
-		    <div class="container">
-		      <div class="row">
-		        <div class="col-md-12">
-		          <div class="mu-about-us-area">
+		    <div className="container">
+		      <div className="row">
+		        <div className="col-md-12">
+		          <div className="mu-about-us-area">
 
-		            <div class="mu-title">
-		              <span class="mu-subtitle">Discover</span>
+		            <div className="mu-title">
+		              <span className="mu-subtitle">Discover</span>
 		              <h2>ABOUT US</h2>
 		            </div>
 
-		            <div class="row">
-		              <div class="col-md-12">
-		               <div class="mu-about-us-left">     
+		            <div className="row">
+		              <div className="col-md-12">
+		               <div className="mu-about-us-left">     
 		               	{/* https://youtu.be/f0SrJSUR-fo */}
 		                <iframe width="1024" height="525" src="https://www.youtube.com/embed/1hM_Ihy70pU"></iframe>          
 		                </div>
@@ -177,59 +177,59 @@ class Landing extends Component {
 		  </section>
 
 		  <section id="mu-contact">
-		    <div class="container">
-		      <div class="row">
-		        <div class="col-md-12">
-		          <div class="mu-contact-area">
+		    <div className="container">
+		      <div className="row">
+		        <div className="col-md-12">
+		          <div className="mu-contact-area">
 
-		            <div class="mu-title">
-		              <span class="mu-subtitle">Get In Touch</span>
+		            <div className="mu-title">
+		              <span className="mu-subtitle">Get In Touch</span>
 		              <h2>Contact Us</h2>
 		            </div>
 
-		            <div class="mu-contact-content">
-		              <div class="row">
+		            <div className="mu-contact-content">
+		              <div className="row">
 
-		                <div class="col-md-6 hidden">
-		                  <div class="mu-contact-left">
+		                <div className="col-md-6 hidden">
+		                  <div className="mu-contact-left">
 		                    {/* Email message div */}
 		                    <div id="form-messages"></div>
 		                    {/* Start contact form */}
-		                    <form id="ajax-contact" method="post" action="mailer.php" class="mu-contact-form">
-		                      <div class="form-group">
+		                    <form id="ajax-contact" method="post" action="mailer.php" className="mu-contact-form">
+		                      <div className="form-group">
 		                        <label for="name">Your Name</label>
-		                        <input type="text" class="form-control" id="name" name="name" placeholder="Name" required=""/>
+		                        <input type="text" className="form-control" id="name" name="name" placeholder="Name" required=""/>
 		                      </div>
-		                      <div class="form-group">
+		                      <div className="form-group">
 		                        <label for="email">Email address</label>
-		                        <input type="email" class="form-control" id="email" name="email" placeholder="Email" required=""/>
+		                        <input type="email" className="form-control" id="email" name="email" placeholder="Email" required=""/>
 		                      </div>                      
-		                      <div class="form-group">
+		                      <div className="form-group">
 		                        <label for="subject">Subject</label>
-		                        <input type="text" class="form-control" id="subject" name="subject" placeholder="Subject" required=""/>
+		                        <input type="text" className="form-control" id="subject" name="subject" placeholder="Subject" required=""/>
 		                      </div>
-		                      <div class="form-group">
+		                      <div className="form-group">
 		                        <label for="message">Message</label>                        
-		                        <textarea class="form-control" id="message" name="message" cols="30" rows="10" placeholder="Type Your Message" required=""></textarea>
+		                        <textarea className="form-control" id="message" name="message" cols="30" rows="10" placeholder="Type Your Message" required=""></textarea>
 		                      </div>                      
-		                      <button type="submit" class="mu-send-btn">Send Message</button>
+		                      <button type="submit" className="mu-send-btn">Send Message</button>
 		                    </form>
 		                  </div>
 		                </div>
 
-		                <div class="col-md-6">
-		                  <div class="mu-contact-right">
-		                    <div class="mu-contact-widget">
+		                <div className="col-md-6">
+		                  <div className="mu-contact-right">
+		                    <div className="mu-contact-widget">
 		                      <h3>Office Address</h3>
 		                      <p>No 2, Saibaba Kovil, Near to CTC bus Stop, Mettupalayam Road, Opposite to Womens Center Coimbatore, Tamil Nadu 641043, India</p>
 		                      <address>
 		                        <p><a href="tel:84323223232" className="ph"><i className="fa fa-phone"></i> 84323223232</a></p>
 		                        <p><a href="https://wa.me/9843484531" className="wa"><i className="fa fa-whatsapp"></i> 9843484531</a></p>
-		                        <p><i class="fa fa-envelope-o"></i></p>
-		                        <p><i class="fa fa-map-marker"></i></p>
+		                        <p><i className="fa fa-envelope-o"></i></p>
+		                        <p><i className="fa fa-map-marker"></i></p>
 		                      </address>
 		                    </div>
-		                    <div class="mu-contact-widget">
+		                    <div className="mu-contact-widget">
 		                      <h3>Open Hours</h3>                      
 		                      <address>
 		                        <p><span>Monday - Sunday</span> 7:30 am to 10:30 pm</p>
