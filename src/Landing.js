@@ -174,7 +174,6 @@ class Landing extends Component {
 		          </div>
 		        </div>
 		      </div>
-		    </div>
 		  </section>
 
 		  <section id="mu-contact">
